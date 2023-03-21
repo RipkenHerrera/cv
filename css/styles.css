@@ -1,0 +1,21 @@
+body {
+    background-color: #222831;
+    color: #EEEEEE;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: #393E46;
+    width: 5%;
+    border-width: 8px;
+  }
+
+  h1 {
+    letter-spacing: .4rem;
+    text-transform: uppercase;
+    color: #00ADB5;
+  }
+
+  h3 {
+    color: #00ADB5;
+  }
